@@ -2,7 +2,7 @@
 
 Present participants
 
-Name - Dept - semester
+Samantha Zakir - CSE -
 
 1.
  
